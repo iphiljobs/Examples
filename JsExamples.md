@@ -1,12 +1,19 @@
-## CRUD Operations:
-###### 1. ARRAYS:
+
+### 1. ARRAYS:
+The Array object is used to store multiple values in a single variable.
+###### Array Properties:
+    Property  | Definition
+------------- | -------------
+constructor  | returns a reference to the array function that created the instance's prototype.
+length  | 
+prototype  | 
 
 ```js
     let arr = new Array ();
     let arr = [];
     let arr = [‘1’,’A’,’a’];
 ```
-  + ###### ADDING DATA	
+    + ###### ADDING DATA	
 ```js
           //@end
           arr.push(‘x’);            [‘1’,’A’,’a’,’x’];
