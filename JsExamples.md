@@ -5,8 +5,8 @@ The Array object is used to store multiple values in a single variable.
     Property  | Definition
 ------------- | -------------
 constructor  | returns a reference to the array function that created the instance's prototype.
-length  | 
-prototype  | 
+length  | xy
+prototype  | 12
 
 ```js
     let arr = new Array ();
