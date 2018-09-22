@@ -8,14 +8,20 @@
 ```
   + ###### ADDING DATA	
 ```js
-          arr.push(‘x’);            //@end          [‘1’,’A’,’a’,’x’];
-          arr[arr.length] = ‘x’;    //@end          [‘1’,’A’,’a’,’x’];
-          arr.unshift(‘x’);         //@beginning    [‘x’,‘1’,’A’,’a’];
+          //@end
+          arr.push(‘x’);            [‘1’,’A’,’a’,’x’];
+          arr[arr.length] = ‘x’;    [‘1’,’A’,’a’,’x’];
+          
+          //@beginning    
+          arr.unshift(‘x’);         [‘x’,‘1’,’A’,’a’];
 ```
 + ###### DELETING
 ```js
-          arr.pop();            //@end              [‘1’,’A’];
-          arr.shift();          //@beginning        [’A’,’a’];
+          //@end
+          arr.pop();            [‘1’,’A’];
+          
+          //@beginning
+          arr.shift();          [’A’,’a’];
 ```
 
 
