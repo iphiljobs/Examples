@@ -9,7 +9,7 @@
 ```js
           arr.push(‘x’);			    //@end		    [‘1’,’A’,’a’,’x’];
           arr[arr.length] = ‘x’;		//@end		    [‘1’,’A’,’a’,’x’];
-          arr.unshift(‘x’);			  	//@beginning	[‘x’,‘1’,’A’,’a’];
+          arr.unshift(‘x’);			 //@beginning	[‘x’,‘1’,’A’,’a’];
 ```
 ###### 			b.DELETING
 ```js
