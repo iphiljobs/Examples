@@ -5,8 +5,8 @@ The Array object is used to store multiple values in a single variable.
    Property  | Definition
  ------------ |---------------
 constructor  | returns a reference to the array function that created the instance's 
-length  | xy
-prototype  | 12
+length  | number of elements in that array
+prototype  | A prototype is a model that displays the appearance and behavior of an application or product early in. You can add new methods and properties to extend all Array objects. (not to use)
 
 ```js
     let arr = new Array ();
