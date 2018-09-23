@@ -2,9 +2,9 @@
 ### 1. ARRAYS:
 The Array object is used to store multiple values in a single variable.
 ###### Array Properties:
-    Property  | Definition
-| :------------ |:---------------:|
-constructor  | returns a reference to the array function that created the instance's prototype
+   Property  | Definition
+ ------------ |---------------
+constructor  | returns a reference to the array function that created the instance's 
 length  | xy
 prototype  | 12
 
